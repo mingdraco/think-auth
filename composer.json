@@ -1,15 +1,17 @@
 {
-    "name": "cuithink/think-auth",
+    "name": "cuiyuanxin/think-auth",
     "description": "This think-auth for cuicms composer packagist .",
+    "homepage": "https://github.com/cuiyuanxin/think-auth",
     "type": "library",
-    "license": "mit",
+    "license": "Apache-2.0",
+    "minimum-stability": "stable",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "cuiyuanxin",
             "email": "745454106@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0"
     },
