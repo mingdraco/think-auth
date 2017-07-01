@@ -1,0 +1,21 @@
+{
+    "name": "cuithink/think-auth",
+    "description": "This think-auth for cuicms composer packagist .",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "cuiyuanxin",
+            "email": "745454106@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\auth\\": "src/"
+        }
+    }
+}
